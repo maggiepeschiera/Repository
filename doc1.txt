@@ -5,3 +5,12 @@ add  para guardar cambios en index
 commit para guardar en repositorio
 
 push para subir contenido a repositorio remoto (github)
+
+para configurar que pida usuario y contraseña en caso de problemas de permisos se recomienda desinstalar y volver a 
+instalar el git. Para desinstalar usar
+
+sudo apt-get remove git
+
+Para instalar de nuevo
+
+sudo apt-get install git
