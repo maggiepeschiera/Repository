@@ -1,0 +1,7 @@
+Instalar git
+configurar git
+
+add  para guardar cambios en index
+commit para guardar en repositorio
+
+push para subir contenido a repositorio remoto (github)
